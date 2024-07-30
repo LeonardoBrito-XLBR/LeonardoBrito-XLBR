@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/b17c7482-f4d9-4076-9ab3-3786c3178dc6)
+
 
 <!--
 **LeonardoBrito-XLBR/LeonardoBrito-XLBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
