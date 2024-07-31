@@ -12,7 +12,7 @@ PROJETOS PESSOAIS
 
 <div>
 <a href="https://github.com/LeonardoBrito-XLBR">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBrito-XLBR&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBrito-XLBR&layout=compact&langs_count=7&theme=great-gatsby"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
