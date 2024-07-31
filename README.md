@@ -16,6 +16,7 @@ PROJETOS PESSOAIS
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </div>
 
+[![LeonardoBrito-XLBR GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR)](https://github.com/LeonardoBrito-XLBR/github-readme-stats)
 
 
 <!--
