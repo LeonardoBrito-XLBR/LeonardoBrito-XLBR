@@ -25,6 +25,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoBrito-XLBR&layout=compact&langs_count=8&card_width=300&theme=vision-friendly-dark" />
 </a>
 
+[snake gif](https://github.com/LeonardoBrito-XLBR/LeonardoBrito-XLBR/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
