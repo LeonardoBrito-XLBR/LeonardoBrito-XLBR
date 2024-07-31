@@ -1,14 +1,18 @@
-Olá, me chamo Leonardo Brito 🖖 
+### 🖖 Olá, me chamo Leonardo Brito 
 
-<!--
-FERRAMENTAS E TECNOLOGIAS
+<br>
 
-EVOLUINDO 
+- FERRAMENTAS E TECNOLOGIAS
+---
 
-PROJETOS PESSOAIS 
+- ESTUDANDO 
+---
+
+- PROJETOS PESSOAIS 
+---
 
 
--->
+
 
 
 
