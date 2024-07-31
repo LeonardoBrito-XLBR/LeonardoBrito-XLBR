@@ -12,11 +12,15 @@ PROJETOS PESSOAIS
 
 
 
-<div>
-<a href="https://github.com/LeonardoBrito-XLBR">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBrito-XLBR&layout=compact&langs_count=7&theme=shades-of-purple"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/LeonardoBrito-XLBR/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&theme=vision-friendly-dark" />
+</a>
+
+<a href="https://github.com/LeonardoBrito-XLBR/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoBrito-XLBR&layout=compact&langs_count=8&card_width=320&theme=vision-friendly-dark" />
+</a>
+
+
 
 <!--
 **LeonardoBrito-XLBR/LeonardoBrito-XLBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
