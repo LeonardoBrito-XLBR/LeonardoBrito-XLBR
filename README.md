@@ -14,7 +14,7 @@
 ---
 --> 
 
-🖖 Hello, I am Leonardo Brito 
+<h4> 🖖 Hello, I am Leonardo Brito <h4/>
 
 <a href="https://github.com/LeonardoBrito-XLBR/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&theme=vision-friendly-dark" />
