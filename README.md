@@ -1,5 +1,9 @@
 <!--
 
+LINK PARA GERAR UM README
+
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
 ### 🖖 Olá, me chamo Leonardo Brito 
 
 <br>
@@ -14,7 +18,17 @@
 ---
 --> 
 
-<h4> 🖖 Hello, I am Leonardo Brito <h4/>
+<h1 align="center">Olá, me chamo Leonardo Brito</h1>
+<h3 align="center">Programador Estudante - FullStack</h3>
+
+
+<h3 align="left" style="display: inline-block; margin-right: 10px;">Connect with me:</h3> 
+<p align="left" style="display: inline-block;">
+<a href="https://instagram.com/sr.leonardo27" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sr.leonardo27" height="30" width="40" />
+</a>
+</p>
+
 
 <a href="https://github.com/LeonardoBrito-XLBR/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&theme=vision-friendly-dark" />
