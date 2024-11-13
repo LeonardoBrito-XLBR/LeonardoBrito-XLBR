@@ -14,6 +14,7 @@
 ---
 --> 
 
+🖖 Hello, I am Leonardo Brito 
 
 <a href="https://github.com/LeonardoBrito-XLBR/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&theme=vision-friendly-dark" />
@@ -22,7 +23,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoBrito-XLBR&layout=compact&langs_count=8&card_width=300&theme=vision-friendly-dark" />
 </a>
 
-<h1> Hello, I am Leonardo Brito <h1/>
 <!--
 **LeonardoBrito-XLBR/LeonardoBrito-XLBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
