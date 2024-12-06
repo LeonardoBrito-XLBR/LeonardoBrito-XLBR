@@ -30,6 +30,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 
+
 <a href="https://github.com/LeonardoBrito-XLBR/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&theme=vision-friendly-dark" />
 </a>
@@ -37,17 +38,11 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoBrito-XLBR&layout=compact&langs_count=8&card_width=300&theme=vision-friendly-dark" />
 </a>
 
-<!--
-**LeonardoBrito-XLBR/LeonardoBrito-XLBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- LOCAL ONDE VOU COLOCAR MINHA TECNOLOGIAS -->
+<h3> Minhas Tecnologias: </h3>
+<p align="left" style="display: inline-block;">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50">
+<img align="center" src="https://brandslogos.com/wp-content/uploads/images/css-logo.png" height="50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
