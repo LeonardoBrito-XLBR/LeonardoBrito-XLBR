@@ -41,9 +41,14 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 
 <!-- LOCAL ONDE VOU COLOCAR MINHA TECNOLOGIAS -->
+<!-- <img src="" height="50" style="margin: 0 10px;"> -->
 <h3 style="text-align: center;">Minhas Tecnologias:</h3>
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50" style="margin: 0 10px;">
   <img src="https://brandslogos.com/wp-content/uploads/images/css-logo.png" height="50" style="margin: 0 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" height="50" style="margin": 0 10px;">
+  <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" height="50" style="margin: 0 10px;">
+  <img src="https://butecotecnologico.com.br/images/wp-content/uploads/2014/11/Git-Icon-1788C.png" height="50" style="margin: 0 10px;">
+  
 </div>
 
