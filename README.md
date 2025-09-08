@@ -31,13 +31,17 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 -->
 
+<div>
 
-<a href="https://github.com/LeonardoBrito-XLBR/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/LeonardoBrito-XLBR/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoBrito-XLBR&layout=compact&langs_count=8&card_width=300&theme=vision-friendly-dark" />
-</a>
+  <a href="https://github.com/LeonardoBrito-XLBR/github-readme-stats">
+    <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoBrito-XLBR&theme=vision-friendly-dark" />
+  </a>
+  <a href="https://github.com/LeonardoBrito-XLBR/convoychat">
+    <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoBrito-XLBR&layout=compact&langs_count=8&card_width=300&theme=vision-friendly-dark" />
+  </a>
+  
+</div>
+
 
 
 <!-- LOCAL ONDE VOU COLOCAR MINHA TECNOLOGIAS -->
