@@ -19,7 +19,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 --> 
 
 
-<h1 align="center">Olá me chamo Leonardo Brito.</h1>
+<h1 align="center">🖖 Olá, me chamo Leonardo Brito.</h1>
 
 ###
 
@@ -34,18 +34,21 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 ###
 
 <h3 align="left">Fique a vontade para explorar🗺</h3>
-
-###
-
-<p align="center">TOTAL DE VISITANTES</p>
-
-###
-
 <br clear="both">
+
+
+
+<h3 align="center" font-size: 50px>
+  <kbd> TOTAL DE VISITANTES </kbd>
+</h3>
+
 
 <div align="center">
   <img src="https://count.getloli.com/@:LeonardoBrito-XLBR?theme=rule34&padding=6&offset=7&scale=1.1&align=bottom&pixelated=1&darkmode=1"  />
 </div>
+
+
+<br clear="both">
 
 ###
 
@@ -53,7 +56,6 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -85,11 +87,12 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ###
 
+
 <h3 align="left">Redes Sociais</h3>
 
 ###
 
-<br clear="both">
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
