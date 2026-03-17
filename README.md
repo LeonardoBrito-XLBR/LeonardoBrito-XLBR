@@ -35,9 +35,9 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ## 🚀 Meus Projetos
 
-- 🔗 [Aprendizagem](https://github.com/LeonardoBrito-XLbr/Aprendizagem)
-- 🛒 [Frontend](https://github.com/LeonardoBrito-XLBR/Projetos-Frontend)
-- 🎮 [Sala-Treinamento](https://github.com/LeonardoBrito-XLBR/)
+- 🔗 [Aprendizagem](https://github.com/LeonardoBrito-XLbr/Aprendizagem) | TUTORIAIS EM PRATICA 
+- 🛒 [Frontend](https://github.com/LeonardoBrito-XLBR/Projetos-Frontend) | LANDPAGES DINAMICAS
+- 🎮 [Sala-Treinamento](https://github.com/LeonardoBrito-XLBR/) | TESTANDO NOVAS FERRAMENTAS 
 
 ---
 ⭐ Veja mais no meu perfil!
