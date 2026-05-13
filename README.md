@@ -27,11 +27,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <h2 align="left">🗃 Seja bem vindo ao meu Quarto Virtual (GitHub Profile) 🧐</h2>
 
-###
 
-<h3 align="left">Só não repare a bagunça...</h3>
-
-###
 
 ## 🚀 Meus Projetos
 
@@ -45,6 +41,11 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 ### Fique a vontade para explorar🗺
 <br clear="both">
 
+###
+
+<h3 align="left">Só não repare a bagunça...</h3>
+
+###
 
 
 <h3 align="center" font-size: 50px>
@@ -100,7 +101,6 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <h3 align="left">Redes Sociais</h3>
 
 ###
-
 
 
 <div align="left">
