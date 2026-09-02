@@ -108,8 +108,12 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
   <a href="https://discord.com/users/yatemaru07" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/leonardobrito2707/" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a a href="https://mail.google.com/mail/?view=cm&fs=1&to=devleonardoxlbr@gmail.com&su=Contato%20pelo%20GitHub&body=Olá!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20trocar%20uma%20ideia%contigo!%20😎" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
